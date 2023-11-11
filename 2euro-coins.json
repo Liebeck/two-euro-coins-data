@@ -293,7 +293,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2023/2023_comm_Germany-Hamburg_540x520.jpg",
     "Caption": "Bundesländer-Serie – Hamburg",
     "Year": 2023,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -447,7 +447,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/2022_comm_EU1-erasmus 540x540.jpg",
     "Caption": "35 Jahre Erasmus-Programm",
     "Year": 2022,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -612,7 +612,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/DE-thueringen.jpg",
     "Caption": "Bundesländer-Serie – Thüringen",
     "Year": 2022,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -931,7 +931,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/DE 2021 Sachsen-Anhalt.jpg",
     "Caption": "Sachsen-Anhalt (Bundesländer-Serie)",
     "Year": 2021,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -1470,7 +1470,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2019/comm_2019_de_30anniv_fallBerlinwall.jpg",
     "Caption": "30. Jahrestag des Falls der Berliner Mauer",
     "Year": 2019,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -1657,7 +1657,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2019/comm_2019_de_70anniv_Bundesrat.jpg",
     "Caption": "70. Jahrestag der Gründung des Bundesrates",
     "Year": 2019,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2031,7 +2031,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2018/comm_2018_germany_anniversary.jpg",
     "Caption": "100. Geburtstag des deutschen Staatsmanns und früheren Bundeskanzlers Helmut Schmidt (1918-2015)",
     "Year": 2018,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2042,7 +2042,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2018/comm_2018_france_cornflower.jpg",
     "Caption": "„Bleuet de France“ („Kornblume Frankreichs“)",
     "Year": 2018,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2086,7 +2086,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2018/comm_2018_Germany_berlin.jpg",
     "Caption": "„Bundesländerserie“ – Berlin",
     "Year": 2018,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2097,7 +2097,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2018/comm_2017_Austria_100years.jpg",
     "Caption": "100. Jahrestag der Gründung der Republik Österreich",
     "Year": 2018,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2394,7 +2394,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2017/comm_2017_germany_rhineland.jpg",
     "Caption": "„Bundesländerserie“ – Rheinland-Pfalz",
     "Year": 2017,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -2746,7 +2746,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2016/comm_2016_germany.jpg",
     "Caption": "„Bundesländerserie“ – Sachsen",
     "Year": 2016,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -3065,7 +3065,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2015/comm_2015_de_Unity.jpg",
     "Caption": "25 Jahre deutsche Einheit",
     "Year": 2015,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -3626,7 +3626,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2013/comm_2013_Germany.jpg",
     "Caption": "„Bundesländerserie“ – Baden-Württemberg",
     "Year": 2013,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -3813,7 +3813,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_de.jpg",
     "Caption": "„Bundesländerserie“ – Bayern",
     "Year": 2012,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -3890,7 +3890,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2011/comm_2011_el.jpg",
     "Caption": "Special Olympics Weltsommerspiele – Athen 2011",
     "Year": 2011,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4121,7 +4121,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2010/comm_2010_de.jpg",
     "Caption": "„Bundesländerserie“ – Bremen",
     "Year": 2010,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4209,7 +4209,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2009/comm_2009_de.jpg",
     "Caption": "„Bundesländerserie“ – Saarland",
     "Year": 2009,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4220,7 +4220,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2009/joint_comm_2009_Austria.jpg",
     "Caption": "10. Jahrestag der Wirtschafts- und Währungsunion",
     "Year": 2009,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4275,7 +4275,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2008/comm_2008_France1.jpg",
     "Caption": "Französischer Vorsitz im Rat der Europäischen Union im zweiten Halbjahr 2008",
     "Year": 2008,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4341,7 +4341,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2008/comm_2008_de.jpg",
     "Caption": "„Bundesländerserie“ – Hamburg",
     "Year": 2008,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
@@ -4495,7 +4495,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2006/comm_2006_it.jpg",
     "Caption": "XX. Olympische Winterspiele – Turin 2006",
     "Year": 2006,
-    "Owned": false,
+    "Owned": true,
     "AvailableForTrade": false
   },
   {
