@@ -4351,7 +4351,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2011/comm_2011_de.jpg",
     "Caption": "„Bundesländerserie“ – Nordrhein-Westfalen",
     "Year": 2011,
-    "Owned": false,
+    "Owned": true,
     "Comment": "",
     "AvailableForTrade": false
   },
