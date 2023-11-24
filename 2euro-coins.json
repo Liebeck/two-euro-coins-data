@@ -1412,7 +1412,7 @@
     "Caption": "&bdquo;Bundesl&auml;nderserie&ldquo; &ndash; Brandenburg",
     "Year": 2020,
     "Owned": true,
-    "Comment": "",
+    "Comment": "von Veit",
     "AvailableForTrade": false
   },
   {
@@ -3344,8 +3344,8 @@
     "Caption": "25 Jahre deutsche Einheit",
     "Year": 2015,
     "Owned": true,
-    "Comment": "",
-    "AvailableForTrade": false
+    "Comment": "von Papa",
+    "AvailableForTrade": true
   },
   {
     "Country": "Deutschland",
@@ -3355,8 +3355,8 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2015/comm_2015_de_Hessen.jpg",
     "Caption": "„Bundesländerserie“ – Hessen",
     "Year": 2015,
-    "Owned": false,
-    "Comment": "",
+    "Owned": true,
+    "Comment": "von Papa",
     "AvailableForTrade": false
   },
   {
@@ -3727,8 +3727,8 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2014/comm_2014_Germany_Niedersachsen.jpg",
     "Caption": "„Bundesländerserie“ – Niedersachsen",
     "Year": 2014,
-    "Owned": false,
-    "Comment": "",
+    "Owned": true,
+    "Comment": "von Papa",
     "AvailableForTrade": false
   },
   {
@@ -4592,8 +4592,8 @@
     "Caption": "„Bundesländerserie“ – Saarland",
     "Year": 2009,
     "Owned": true,
-    "Comment": "",
-    "AvailableForTrade": false
+    "Comment": "von Papa",
+    "AvailableForTrade": true
   },
   {
     "Country": "Länder des Euroraums",
@@ -4819,8 +4819,8 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2007/comm_2007_Germany.jpg",
     "Caption": "„Bundesländerserie“ – Mecklenburg-Vorpommern",
     "Year": 2007,
-    "Owned": false,
-    "Comment": "",
+    "Owned": true,
+    "Comment": "von Papa",
     "AvailableForTrade": false
   },
   {
