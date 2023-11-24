@@ -489,7 +489,7 @@
     "Year": 2022,
     "Owned": true,
     "Comment": "Deutschland",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Litauen",
@@ -1017,7 +1017,7 @@
     "Year": 2021,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Italien",
@@ -2217,7 +2217,7 @@
     "Year": 2018,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Frankreich",
@@ -2277,7 +2277,7 @@
     "Year": 2018,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Österreich",
@@ -4497,7 +4497,7 @@
     "Year": 2010,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Slowakei",
