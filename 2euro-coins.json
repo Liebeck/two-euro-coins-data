@@ -4807,8 +4807,8 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2007/joint_comm_2007_Austria.jpg",
     "Caption": "50. Jahrestag der Unterzeichnung des Vertrags von Rom",
     "Year": 2007,
-    "Owned": false,
-    "Comment": "",
+    "Owned": true,
+    "Comment": "Deutschland",
     "AvailableForTrade": false
   },
   {
