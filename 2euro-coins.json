@@ -2613,7 +2613,7 @@
     "Year": 2017,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Slowakei",
@@ -4135,8 +4135,8 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Austria.jpg",
     "Caption": "Zehnter Jahrestag der Einführung des Euro",
     "Year": 2012,
-    "Owned": false,
-    "Comment": "",
+    "Owned": true,
+    "Comment": "Deutschland",
     "AvailableForTrade": false
   },
   {
