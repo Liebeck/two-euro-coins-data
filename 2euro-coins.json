@@ -1159,7 +1159,7 @@
     "ImageUrl": null,
     "Caption": "50. Jahrestag des Kniefalls von Willy Brandt in Warschau",
     "Year": 2020,
-    "Owned": false,
+    "Owned": true,
     "Comment": "",
     "AvailableForTrade": false
   },
@@ -3643,7 +3643,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2014/comm_2014_Netherlands.jpg",
     "Caption": "Offizielle Abschiedsfeier zu Ehren der früheren Königin Beatrix",
     "Year": 2014,
-    "Owned": false,
+    "Owned": true,
     "Comment": "",
     "AvailableForTrade": false
   },
@@ -4604,8 +4604,8 @@
     "Caption": "10. Jahrestag der Wirtschafts- und Währungsunion",
     "Year": 2009,
     "Owned": true,
-    "Comment": "Deutschland, Frankfreich",
-    "AvailableForTrade": false
+    "Comment": "Deutschland, Frankreich",
+    "AvailableForTrade": true
   },
   {
     "Country": "Luxemburg",
