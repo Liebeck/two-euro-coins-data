@@ -1413,7 +1413,7 @@
     "Year": 2020,
     "Owned": true,
     "Comment": "von Veit",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Belgien",
@@ -3907,7 +3907,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2013/comm_2013_fr_2.jpg",
     "Caption": "150. Jahrestag der Geburt von Pierre de Coubertin, Initiator der Olympischen Spiele der Neuzeit und erster Präsident des Internationalen Olympischen Komitees",
     "Year": 2013,
-    "Owned": false,
+    "Owned": true,
     "Comment": "",
     "AvailableForTrade": false
   },
@@ -4136,7 +4136,7 @@
     "Caption": "Zehnter Jahrestag der Einführung des Euro",
     "Year": 2012,
     "Owned": true,
-    "Comment": "Deutschland",
+    "Comment": "Deutschland, Belgien",
     "AvailableForTrade": false
   },
   {
@@ -4891,7 +4891,7 @@
     "ImageUrl": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2006/comm_2006_de.jpg",
     "Caption": "„Bundesländerserie“ – Schleswig-Holstein",
     "Year": 2006,
-    "Owned": false,
+    "Owned": true,
     "Comment": "",
     "AvailableForTrade": false
   },
