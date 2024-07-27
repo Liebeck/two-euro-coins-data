@@ -4821,7 +4821,7 @@
     "Year": 2007,
     "Owned": true,
     "Comment": "Deutschland",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Deutschland",
