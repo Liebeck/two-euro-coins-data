@@ -1,5 +1,17 @@
 [
   {
+    "Country": "Deutschland",
+    "Description": "",
+    "ProductionVolume": "??",
+    "ReleaseDate": "2024",
+    "ImageUrl": "https://www.zwei-euro.com/wp-content/uploads/2023/12/DE-2024-1-300x300.jpg",
+    "Caption": "„Bundesländerserie 2“ – Mecklenburg-Vorpommern",
+    "Year": 2024,
+    "Owned": true,
+    "Comment": "",
+    "AvailableForTrade": false
+  },
+  {
     "Country": "Zypern",
     "Description": "Auf der Münze abgebildet sind Werkzeuge auf einem Mikrochip als symbolische Darstellung der wirtschaftlichen Stabilität des modernen Industrie- und Digitalzeitalters, die von der Zentralbank von Zypern seit ihrem 60-jährigen Bestehen gesichert wird. Am unteren Münzrand stehen der Name des Ausgabestaates „ΚYΠΡΟΣ KIBRIS“ und die Jahreszahlen „1963-2023“. Der Schriftzug „60 ΧΡOΝΙΑ ΑΠO ΤΗΝ IΔΡΥΣΗ ΤΗΣ ΚΕΝΤΡΙKHΣ ΤΡAΠΕΖΑΣ ΤΗΣ ΚYΠΡΟΥ“ (60 Jahre seit der Gründung der Zentralbank von Zypern) ist im inneren Münzring der nationalen Seite eingraviert. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt.",
     "ProductionVolume": "412 000 Münzen",
@@ -1161,7 +1173,7 @@
     "Year": 2020,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Frankreich",
@@ -3957,7 +3969,7 @@
     "Year": 2013,
     "Owned": true,
     "Comment": "",
-    "AvailableForTrade": false
+    "AvailableForTrade": true
   },
   {
     "Country": "Slowenien",
